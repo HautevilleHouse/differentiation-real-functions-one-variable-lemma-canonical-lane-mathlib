@@ -1,0 +1,10 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace DifferentiationRealFunctionsOneVariableLemmaCanonicalLaneLean
+
+structure AdmittedObject where
+  conclusion : Prop
+
+end DifferentiationRealFunctionsOneVariableLemmaCanonicalLaneLean
+end HautevilleHouse
